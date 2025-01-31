@@ -16,4 +16,8 @@ internal static class Smiley
     {
         Console.WriteLine(":-(");
     }
+    public static void Bored()
+    {
+        Console.WriteLine(":-|");
+    }
 }
