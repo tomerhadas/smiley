@@ -20,4 +20,8 @@ internal static class Smiley
     {
         Console.WriteLine(":-|");
     }
+    public static void Crazy()
+    {
+        Console.WriteLine("XD");
+    }
 }
