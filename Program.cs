@@ -1,10 +1,11 @@
-﻿namespace Smilies
+﻿namespace Smilies;
+
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Smilies");
-        }
+        Console.WriteLine("Smilies");
+
+        Smiley.Happy();
     }
 }
