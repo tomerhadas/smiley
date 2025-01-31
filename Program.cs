@@ -10,5 +10,6 @@ internal class Program
         Smiley.Sad();
         Smiley.Bored();
         Smiley.Crazy();
+        Smiley.Shocked();
     }
 }
